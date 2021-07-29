@@ -19,6 +19,8 @@
   
   .main-navigation__title {
     color: white;
+    justify-content: center;
+
   }
   
   .main-navigation__title a {
@@ -41,5 +43,9 @@
   
     .main-navigation__header-nav {
       display: block;
+    }
+
+    .main-navigation__title h1 {
+      justify-content: center;
     }
   }

@@ -11,7 +11,7 @@ const NavLinks = props => {
             <NavLink to="/boxes/">Temp</NavLink>
         </li>
         <li>
-            <NavLink to="/user/profile">Profile</NavLink>
+            <NavLink to="/profile">Profile</NavLink>
         </li>
         <li>
             <NavLink to="/auth">Login</NavLink>
